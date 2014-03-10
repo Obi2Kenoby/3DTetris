@@ -12,7 +12,5 @@ It makes use of the as3isolib:
 https://code.google.com/p/as3isolib/ <br>
 Since it makes use of this library, this project falls under the same licences of this library.
 
-## Idea
-
 Feel free to use, copy or alter this code in any way you want.
-When major changes are published, I'll publish this game again with a 'social-coding' label.
+
